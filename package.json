@@ -9,7 +9,9 @@
   "author": "Zevaxx <sebastian88@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
   },
   "devDependencies": {
     "express": "^4.17.1",
