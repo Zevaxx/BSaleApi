@@ -1,10 +1,10 @@
 const mysql = require('mysql');
 
 const pool = mysql.createPool({
-user: 'bsale_test',
-database: 'bsale_test',
-password: 'bsale_test',
-host: 'mdb-test.c6vunyturrl6.us-west-1.rds.amazonaws.com'
+user: 'xx',
+database: 'xx',
+password: 'xx',
+host: 'xx'
 
 });
 
